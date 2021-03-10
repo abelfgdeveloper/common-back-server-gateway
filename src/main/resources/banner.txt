@@ -1,0 +1,13 @@
+                  _                                                                                        
+                 | |                                                                                       
+   __ _    __ _  | |_    ___  __      __   __ _   _   _   ______   ___    ___   _ __  __   __   ___   _ __ 
+  / _` |  / _` | | __|  / _ \ \ \ /\ / /  / _` | | | | | |______| / __|  / _ \ | '__| \ \ / /  / _ \ | '__|
+ | (_| | | (_| | | |_  |  __/  \ V  V /  | (_| | | |_| |          \__ \ |  __/ | |     \ V /  |  __/ | |   
+  \__, |  \__,_|  \__|  \___|   \_/\_/    \__,_|  \__, |          |___/  \___| |_|      \_/    \___| |_|   
+   __/ |                                           __/ |                                                   
+  |___/                                           |___/                                                    
+                                                                                                                                                 
+${AnsiColor.BRIGHT_MAGENTA} :: Application Name: ${application.title} ${AnsiColor.BRIGHT_MAGENTA}
+${AnsiColor.BRIGHT_BLUE} :: Application Version: ${application.version} ${AnsiColor.BRIGHT_BLUE} 
+${AnsiColor.BRIGHT_GREEN} :: Spring Boot: ${spring-boot.version} ${AnsiColor.BRIGHT_GREEN}
+${AnsiColor.DEFAULT}
